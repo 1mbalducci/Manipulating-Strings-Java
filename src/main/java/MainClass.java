@@ -18,5 +18,13 @@ public class MainClass {
 
         sampleSentance.insert(4,"fine ");// ads "fine at the index of 4
         System.out.println(sampleSentance);
+
+        sampleSentance.replace(34,40,"PROS");// replaces "fine" with "pros"
+        // starting at the index of 34 the characters are removed but not the character at 40
+        System.out.println(sampleSentance);
+
+        sampleSentance.delete(39,42).insert(39,"&");// deletes "and" add "&"
+        // starting at the index of 49 the characters are removed but not the character at 42
+        System.out.println(sampleSentance);
     }
 }
