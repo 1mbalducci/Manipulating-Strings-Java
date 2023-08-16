@@ -1,6 +1,8 @@
-public class MainClass {
+public class StringBuilderClass {
 
     public static void main(String[] args) {
+        int number1 =5;
+
         StringBuilder sampleSentance = new StringBuilder("One day I will code like the giants and work with my cousin at Apple.");
         //don't forget with StringBuilder to make a new StringBuilder! Can't instantiate like a
         //normal String
@@ -38,5 +40,14 @@ public class MainClass {
         System.out.println(sb.capacity());//now 16
         sb.append("Java is my favourite language");
         System.out.println(sb.capacity());//now (16*2)+2=34 i.e (oldcapacity*2)+2
-    }
+
+
+        sampleSentance.insert(4,number1).insert(5," ");
+        System.out.println(sampleSentance);
+
+
+
+
+
+        }
 }
