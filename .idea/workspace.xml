@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f786f018-d483-42fc-af36-0bd7005361ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/LongestWordInSentance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HelperFunctions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/StringBuilderClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ReverseTheString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReverseTheString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +41,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -50,9 +51,16 @@
       <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LongestWordInSentance">
+  <component name="RunManager" selected="Application.ReverseTheString">
     <configuration name="LongestWordInSentance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestWordInSentance" />
+      <module name="Manipulating-Strings-Java-Desktop.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseTheString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseTheString" />
       <module name="Manipulating-Strings-Java-Desktop.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseTheString" />
         <item itemvalue="Application.LongestWordInSentance" />
         <item itemvalue="Application.StringBuilderClass" />
       </list>
