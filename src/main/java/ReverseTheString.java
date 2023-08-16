@@ -5,7 +5,7 @@ public class ReverseTheString {
         String s = "I like this program very much ";
         char [] charArray= s.toCharArray();
         // Function call
-        char[] p = HelperFunctions.reverseWords(charArray);
+        char[] p = HelperReversingTheString.reverseWords(charArray);
         System.out.print(p);
 
         System.out.print("________________________");

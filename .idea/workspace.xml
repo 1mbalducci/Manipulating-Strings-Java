@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f786f018-d483-42fc-af36-0bd7005361ca" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/HelperFunctions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelperFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelperReversingTheString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ReverseTheString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReverseTheString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

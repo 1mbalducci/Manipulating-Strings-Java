@@ -1,4 +1,4 @@
-public class HelperFunctions {
+public class HelperReversingTheString {
 
     // Reverse the letters
     // of the word
