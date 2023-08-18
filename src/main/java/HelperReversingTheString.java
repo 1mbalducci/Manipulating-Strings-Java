@@ -22,7 +22,6 @@ public class HelperReversingTheString {
     static char[] reverseWords(char[] s)
     {
         // Reversing individual words as
-        // explained in the first step
 
         int start = 0;
         for (int end = 0; end < s.length; end++) {
